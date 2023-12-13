@@ -32,10 +32,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosaavi&" alt="sergiosaavi" />
   </p>
 
-  <!-- Adjusted code for the cat image -->
+  <!-- Adjusted code for the cat image 
   <p style="display: inline-block; float: right;">
     <img src="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Cat Image" style="max-width: 100px;"/>
-  </p>
+  </p> -->
 
 </div>
 
